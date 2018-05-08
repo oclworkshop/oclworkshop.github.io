@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OCL Workshop</title>
+    <link>https://oclworkshop.github.io/2018/</link>
+    <description>Recent content on OCL Workshop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-en</language>
+    <lastBuildDate>Sun, 22 Apr 2018 16:12:19 +0100</lastBuildDate>
+    
+	<atom:link href="https://oclworkshop.github.io/2018/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Call for Papers</title>
+      <link>https://oclworkshop.github.io/2018/cfp.html</link>
+      <pubDate>Sun, 22 Apr 2018 16:12:19 +0100</pubDate>
+      
+      <guid>https://oclworkshop.github.io/2018/cfp.html</guid>
+      <description>Call For Papers Modeling started out with UML and its precursors as a graphical notation. Such visual representations enable direct intuitive capturing of reality, but they have weaknesses: for example, detailed visual representations bear the risk of becoming overcrowded faster than textual models and some of the visual features lack the level of precision required to create complete and unambiguous specifications. These weaknesses of graphical notations encouraged the development of text-based modeling languages that either integrate with or replace graphical notations for modeling.</description>
+    </item>
+    
+    <item>
+      <title>Important dates</title>
+      <link>https://oclworkshop.github.io/2018/dates.html</link>
+      <pubDate>Sun, 22 Apr 2018 16:51:13 +0100</pubDate>
+      
+      <guid>https://oclworkshop.github.io/2018/dates.html</guid>
+      <description> Important Dates The important dates you should bear in mind for the workshop are the following:
+ Submission of papers: July 17, 2018 Notification: August 17, 2018 Workshop date: October 14, 2018  </description>
+    </item>
+    
+    <item>
+      <title>Committee</title>
+      <link>https://oclworkshop.github.io/2018/committee.html</link>
+      <pubDate>Sun, 22 Apr 2018 16:54:40 +0100</pubDate>
+      
+      <guid>https://oclworkshop.github.io/2018/committee.html</guid>
+      <description> Organizers  Achim D. Brucker, The University of Sheffield, UK Robert Clarisó, Universitat Oberta de Catalunya, Spain Hao Wu, Maynooth University, Ireland  Programme Committee (tbd) </description>
+    </item>
+    
+    <item>
+      <title>Program</title>
+      <link>https://oclworkshop.github.io/2018/program.html</link>
+      <pubDate>Tue, 08 May 2018 04:54:50 +0100</pubDate>
+      
+      <guid>https://oclworkshop.github.io/2018/program.html</guid>
+      <description>Information about the program will be announced in due time.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://oclworkshop.github.io/2018/contact.html</link>
+      <pubDate>Sun, 22 Apr 2018 16:55:21 +0100</pubDate>
+      
+      <guid>https://oclworkshop.github.io/2018/contact.html</guid>
+      <description>How to contact You can contact us by sending an email or via twitter</description>
+    </item>
+    
+    <item>
+      <title>Past Editions</title>
+      <link>https://oclworkshop.github.io/2018/pasteditions.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oclworkshop.github.io/2018/pasteditions.html</guid>
+      <description> Past Editions  OCL 2017, Marburg OCL 2016, Saint-Malo OCL 2015, Ottawa OCL 2014, Valencia OCL 2013, Miami OCL 2012, Innsbruck OCL 2011, Zurich OCL 2010, Oslo OCL 2009, Colorado OCL 2008, Toulouse OCL 2007, Nashville OCL 2006, Genova OCL 2005, Montego Bay OCL 2004, Lisbon OCL 2003, San Francisco OCL 2001, Toronto OCL 2000, York  </description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://oclworkshop.github.io/2018/news.html</link>
+      <pubDate>Tue, 08 May 2018 04:23:13 +0100</pubDate>
+      
+      <guid>https://oclworkshop.github.io/2018/news.html</guid>
+      <description>News !!! Workshop Web Site On-line - 2018-05-08 The website for the 17th International Workshop in OCL and Textual Modeling is online. This year, the Workshop will be co-located with MODELS in Copenhagen, Denmark.</description>
+    </item>
+    
+  </channel>
+</rss>
