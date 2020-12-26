@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OCL Workshop</title>
+    <link>https://oclworkshop.github.io/2021/</link>
+    <description>Recent content on OCL Workshop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-en</language><atom:link href="https://oclworkshop.github.io/2021/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Call for Papers</title>
+      <link>https://oclworkshop.github.io/2021/cfp.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oclworkshop.github.io/2021/cfp.html</guid>
+      <description>Call For Papers Modeling started out with UML and its precursors as a graphical notation. Such visual representations enable direct intuitive capturing of reality, but they have weaknesses: for example, detailed visual representations bear the risk of becoming overcrowded faster than textual models and some of the visual features lack the level of precision required to create complete and unambiguous specifications. These weaknesses of graphical notations encouraged the development of text-based modeling languages that either integrate with or replace graphical notations for modeling.</description>
+    </item>
+    
+    <item>
+      <title>Important dates</title>
+      <link>https://oclworkshop.github.io/2021/dates.html</link>
+      <pubDate>Sat, 28 Mar 2020 16:51:13 +0100</pubDate>
+      
+      <guid>https://oclworkshop.github.io/2021/dates.html</guid>
+      <description>Important Dates The important dates you should bear in mind for the workshop are the following:
+ Abstract submission: Apr 27 2021, AoE Paper submission: May 4 2021, AoE Notification: May 25 2021, AoE Pre-Workshop CRC: To be announced Workshop: To be announded (between June 21-June 25 2021) Post-Workshop CRC: To be announced  Should you have any problem to meet the deadlines, please contact the organizers.</description>
+    </item>
+    
+    <item>
+      <title>Committee</title>
+      <link>https://oclworkshop.github.io/2021/committee.html</link>
+      <pubDate>Thu, 20 Feb 2020 15:50:40 +0100</pubDate>
+      
+      <guid>https://oclworkshop.github.io/2021/committee.html</guid>
+      <description>Organizers  Daniel Calegari, Universidad de la República, Uruguay Robert Clarisó, Universitat Oberta de Catalunya, Spain Edward Willink, Willink Transformations Ltd, UK (  Programme Committee To be announced.</description>
+    </item>
+    
+    <item>
+      <title>Program</title>
+      <link>https://oclworkshop.github.io/2021/program.html</link>
+      <pubDate>Wed, 05 Feb 2020 04:54:50 +0100</pubDate>
+      
+      <guid>https://oclworkshop.github.io/2021/program.html</guid>
+      <description>Workshop Program To be announced</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://oclworkshop.github.io/2021/contact.html</link>
+      <pubDate>Wed, 05 Feb 2020 16:55:21 +0100</pubDate>
+      
+      <guid>https://oclworkshop.github.io/2021/contact.html</guid>
+      <description>How to contact You can contact us by sending an email or via twitter</description>
+    </item>
+    
+    <item>
+      <title>Past Editions</title>
+      <link>https://oclworkshop.github.io/2021/pasteditions.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oclworkshop.github.io/2021/pasteditions.html</guid>
+      <description>Past Editions  OCL 2020, canceled due to COVID-19. OCL 2019, Munich OCL 2018, Copenhagen OCL 2017, Marburg OCL 2016, Saint-Malo OCL 2015, Ottawa OCL 2014, Valencia OCL 2013, Miami OCL 2012, Innsbruck OCL 2011, Zurich OCL 2010, Oslo OCL 2009, Colorado OCL 2008, Toulouse OCL 2007, Nashville OCL 2006, Genova OCL 2005, Montego Bay OCL 2004, Lisbon OCL 2003, San Francisco OCL 2001, Toronto OCL 2000, York  </description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://oclworkshop.github.io/2021/news.html</link>
+      <pubDate>Wed, 05 Feb 2020 04:23:13 +0100</pubDate>
+      
+      <guid>https://oclworkshop.github.io/2021/news.html</guid>
+      <description>News !!! OCL Workshop 2021 Website On-line - 2020-12-26 </description>
+    </item>
+    
+  </channel>
+</rss>
