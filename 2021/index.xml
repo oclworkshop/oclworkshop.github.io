@@ -22,7 +22,7 @@
       
       <guid>https://oclworkshop.github.io/2021/dates.html</guid>
       <description>Important Dates The important dates you should bear in mind for the workshop are the following:
- Abstract submission: Apr 27 2021, AoE May 4 2021, AoE (Extended) Paper submission: May 4 2021, AoE Notification: May 25 2021, AoE Pre-Workshop CRC: June 15 2021 Workshop: June 25 2021 Post-Workshop CRC: July 25 2021  Should you have any problem to meet the deadlines, please contact the organizers.</description>
+ Abstract submission: Apr 27 2021, AoE May 4 2021, AoE (Extended) Paper submission: May 4 2021, AoE Notification: May 25 2021, AoE Pre-Workshop CRC: June 15 2021June 18 2021, AoE (Extended) Workshop: June 25 2021 Post-Workshop CRC: July 25 2021  Should you have any problem to meet the deadlines, please contact the organizers.</description>
     </item>
     
     <item>
@@ -40,7 +40,8 @@
       <pubDate>Wed, 05 Feb 2020 04:54:50 +0100</pubDate>
       
       <guid>https://oclworkshop.github.io/2021/program.html</guid>
-      <description>Workshop Program To be announced</description>
+      <description>Workshop Program 11:00 - 12:30	Session 1 - Chair: Ed Willink
+11:00 - 11:10	Opening 11:10 - 11:30	Kevin Lano. Adding regular expression operators to OCL 11:30 - 11:50	Zijun Chen, Wilbert Alberts and Ivan Kurtev. Testing Code Generators: a Case Study on Applying USE, EFinder and Tracts in Practice 11:50 - 12:10	Kunxiang Jin and Kevin Lano. Mutation Operators for Object Constraint Language Specification 12:10 - 12:30 Kevin Lano. Implementing OCL in Swift</description>
     </item>
     
     <item>
