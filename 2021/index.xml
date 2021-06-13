@@ -41,7 +41,8 @@
       
       <guid>https://oclworkshop.github.io/2021/program.html</guid>
       <description>Workshop Program 11:00 - 12:30	Session 1 - Chair: Ed Willink
-11:00 - 11:10	Opening	11:10 - 11:30	Kevin Lano. Adding regular expression operators to OCL
+11:00 - 11:10	Opening
+11:10 - 11:30	Kevin Lano. Adding regular expression operators to OCL
 11:30 - 11:50	Zijun Chen, Wilbert Alberts and Ivan Kurtev. Testing Code Generators: a Case Study on Applying USE, EFinder and Tracts in Practice
 11:50 - 12:10	Kunxiang Jin and Kevin Lano. Mutation Operators for Object Constraint Language Specification
 12:10 - 12:30 Kevin Lano. Implementing OCL in Swift</description>
